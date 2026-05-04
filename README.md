@@ -1,3 +1,4 @@
+KUCHARZE - PROGRAMOWANIE SYSTEMOWE I WSPOLBIERZNE
 1. Opis rozwiązania
    Program jest połączeniem dwóch klasycznych problemów synchronizacji:
 
